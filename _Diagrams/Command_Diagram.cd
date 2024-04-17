@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SE456.Command">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Timer\Cmd\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.SpriteAnimationCmd">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAQAAAAAAAgAAIAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Sprite\SpriteAnimationCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.SoundCmd">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sound\SoundCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.AlienMoveCmd">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Aliens\AlienMoveCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.SoundMarchCmd">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAQAAAEAA=</HashCode>
+      <FileName>Sound\SoundMarchCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.BombSpawnEventCmd">
+    <Position X="7.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACAQAAAAAAAAAAIAAACAAgAAAAAAAAAA=</HashCode>
+      <FileName>Timer\BombSpawnEventCmd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
