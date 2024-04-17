@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="adds to Man">
+    <Position X="3.503" Y="3.106" Height="0.338" Width="1.052" />
+  </Comment>
+  <Class Name="SE456.SpriteGameFactory">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAIAACAAAAIAAIAgQQBAAAIABEAAAABhAQMAAIA=</HashCode>
+      <FileName>Sprite\SpriteGameFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="spriteGame" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SE456.SpriteGameMan">
+    <Position X="0.75" Y="2.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAABpAAAAABIAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>Sprite\SpriteGameMan.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="psSpriteCompare" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SE456.SpriteGame" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAIBAAAAAApABAQAgAoAAAAAAEQAAAARBgAABABAA=</HashCode>
+      <FileName>Sprite\SpriteGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SE456.FallDagger">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Bomb\FallDagger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.FallStraight">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Bomb\FallStraight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.FallStrategy">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Bomb\FallStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.FallZigZag">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Bomb\FallZigZag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.UFOMoveStrategy">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\UFO\UFOMoveStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.UFOMoveLeftStrategy">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\UFO\UFOMoveLeftStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE456.UFOMoveRightStrategy">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\UFO\UFOMoveRightStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
